@@ -49,3 +49,4 @@ Supply it with a directory:
 4. Change any System.Web references (`Request`, `Session`, etc), . Those you will have to change manually.
 5. Change any code-behind referencing its page's webforms controls. Those you will have to change manually.
 6. Change any master pages.
+7. Change anything to do with routing or routevalues. You must do this manually.
