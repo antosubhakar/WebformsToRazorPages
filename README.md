@@ -39,7 +39,7 @@ Supply it with a directory:
 
 3. Use these new .cshtml and .cshtml.cs files in your ASP.NET Core web app.
 
-4. .aspx files will NOT be modified in this process.
+4. Your existing .aspx files will NOT be modified in this process.
 
 ### What This App Does NOT Do
 
@@ -50,3 +50,4 @@ Supply it with a directory:
 5. Change any code-behind referencing its page's webforms controls. Those you will have to change manually.
 6. Change any master pages.
 7. Change anything to do with routing or routevalues. You must do this manually.
+8. Change your existing Web Forms project or files.
